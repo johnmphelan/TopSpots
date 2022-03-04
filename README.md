@@ -1,4 +1,4 @@
-# Getting Started with Create React App - with Top Spots being on top!
+# Getting Started with Create React App - with Top Spots being on top! Changed
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
