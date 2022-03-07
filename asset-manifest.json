@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/topspots/static/css/main.65c1866f.css",
-    "main.js": "/topspots/static/js/main.6d94ae4c.js",
-    "index.html": "/topspots/index.html",
-    "main.65c1866f.css.map": "/topspots/static/css/main.65c1866f.css.map",
-    "main.6d94ae4c.js.map": "/topspots/static/js/main.6d94ae4c.js.map"
+    "main.css": "/TopSpots/static/css/main.65c1866f.css",
+    "main.js": "/TopSpots/static/js/main.6d94ae4c.js",
+    "index.html": "/TopSpots/index.html",
+    "main.65c1866f.css.map": "/TopSpots/static/css/main.65c1866f.css.map",
+    "main.6d94ae4c.js.map": "/TopSpots/static/js/main.6d94ae4c.js.map"
   },
   "entrypoints": [
     "static/css/main.65c1866f.css",
