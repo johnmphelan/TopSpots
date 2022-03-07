@@ -1,7 +1,7 @@
 export const TopLevelLocations = [
     {
       title: "Leixlip",
-      imagePath: process.env.PUBLIC_URL + "/Images/1wonderfulbarn.PNG",
+      imagePath: process.env.PUBLIC_URL + "public//Images/1wonderfulbarn.PNG",
       pathTo: "/leixlip",
     },
     {
