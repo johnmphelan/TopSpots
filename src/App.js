@@ -1,6 +1,6 @@
 import "./App.css";
 import Nav from "./Components/Nav";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Leixlip from "./Pages/Leixlip";
 import Killiney from "./Pages/Killiney";
 import Dublin from "./Pages/Dublin";
@@ -17,7 +17,7 @@ function App() {
         <Nav>Nav 2 baby Another baby bayb baby</Nav>
         <Content style={{ padding: "0 50px" }}>
           <Routes>
-            <Route path="/" exact element={<Home />} />
+            <Route path="/TopSpots" exact element={<Home />} /> 
             <Route path="/leixlip" exact element={<Leixlip />} />
             <Route path="/killiney" exact element={<Killiney />} />
             <Route path="/dublin" exact element={<Dublin />} /> 
