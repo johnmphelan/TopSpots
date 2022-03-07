@@ -14,7 +14,7 @@ function App() {
   return (
     <Router>
       <div className="ant-layout">
-        <Nav>Nav 2 baby </Nav>
+        <Nav>Nav 2 baby Another baby bayb baby</Nav>
         <Content style={{ padding: "0 50px" }}>
           <Routes>
             <Route path="/" exact element={<Home />} />
