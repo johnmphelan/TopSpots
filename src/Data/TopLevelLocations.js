@@ -6,12 +6,12 @@ export const TopLevelLocations = [
     },
     {
       title: "Killiney",
-      imagePath: "./Images/2_Killiney_hill.png",
+      imagePath: "./Images/2_Killiney_hill.PNG",
       pathTo: "/killiney",
     },
     {
       title: "Dublin",
-      imagePath: "../Images/3_dublin_halfpenny_bridge.png",
+      imagePath: "../Images/3_dublin_halfpenny_bridge.PNG",
       pathTo: "/dublin",
     },
   ];
